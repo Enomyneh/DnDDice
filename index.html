@@ -4,24 +4,36 @@
 			<link rel="stylesheet" href="css/style.css">
 		</head>
 		<body>
+		
+			<!-- Start Dice Rolling Scripts-->
 			<script type="text/javascript" src="js/rollD4.js"> </script>
 			<script type="text/javascript" src="js/rollD6.js"> </script>
 			<script type="text/javascript" src="js/rollD8.js"> </script>
 			<script type="text/javascript" src="js/rollD10.js"> </script>
 			<script type="text/javascript" src="js/rollD12.js"> </script>
 			<script type="text/javascript" src="js/rollD20.js"> </script>
+			<!-- Finish Dice Rolling Scripts-->
+			
+			<!-- Start Clearing Scripts-->
+			<script type="text/javascript" src="js/clearStatus.js"> </script>
+			<!-- Finish Clearing Scripts-->
+			
+			<!--Dice Boxes-->
 			<div id="die1" class="dice">0</div>
 			<div id="die2" class="dice1">0</div>
 			<div id="die3" class="dice2">0</div>
 			<div id="die4" class="dice3">0</div>
 			<div id="die5" class="dice4">0</div>
 			<div id="die6" class="dice5">0</div>
+			
+			<!--Dice Buttons-->
 			<button onclick="rollD4()">Roll D4</button>
 			<button onclick="rollD6()">Roll D6</button>
 			<button onclick="rollD8()">Roll D8</button>
 			<button onclick="rollD10()">Roll D10</button>
 			<button onclick="rollD12()">Roll D12</button>
 			<button onclick="rollD20()">Roll D20</button>
+			<button onclick="clearStatus()"> Clear </button>
 			<h2 id="status" style="clear:left;"></h2>
 		</body>
 	</html>
