@@ -6,7 +6,7 @@ body {
 	height: 100%; margin: 0; padding: 0;
 }
 div.dice{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;
@@ -16,7 +16,7 @@ div.dice{
 	margin:5px;
 }
 div.dice1{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;
@@ -26,7 +26,7 @@ div.dice1{
 	margin:5px;
 }
 div.dice2{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;
@@ -36,7 +36,7 @@ div.dice2{
 	margin:5px;
 }
 div.dice3{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;
@@ -46,7 +46,7 @@ div.dice3{
 	margin:5px;
 }
 div.dice4{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;
@@ -55,7 +55,7 @@ div.dice4{
 	text-align:center;
 	margin:5px;
 }div.dice5{
-	float:left;
+	float:top;
 	width:32px;
 	background:#F5F5F5;
 	border:#999 1px solid;

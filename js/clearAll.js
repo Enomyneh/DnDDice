@@ -1,4 +1,4 @@
-function clearStatus() {
+function clearAll() {
 						var status = document.getElementById("status");
 						var die1 = document.getElementById("die1");
 						var die2 = document.getElementById("die2");
