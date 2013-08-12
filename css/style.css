@@ -1,0 +1,66 @@
+html { 
+	height: 100% 
+}
+
+body { 
+	height: 100%; margin: 0; padding: 0;
+}
+div.dice{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
+div.dice1{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
+div.dice2{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
+div.dice3{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
+div.dice4{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}div.dice5{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
